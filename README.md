@@ -1,6 +1,6 @@
 # Developer Brand & Skill Expansion Resource Masterlist
 
-A curated list of resources and websites to help developers expand their brand, enhance their skills, and connect with the tech community.
+A curated list of resources and websites to help Canadian developers expand their brand, enhance their skills, and connect with the tech community.
 
 ## Version Control & Project Management
 - [GitHub](https://github.com) – Code hosting, version control & collaboration.
@@ -33,6 +33,7 @@ A curated list of resources and websites to help developers expand their brand, 
 - [Exercism](https://exercism.org) – Coding exercises with mentorship.
 - [Codewars](https://www.codewars.com) – Improve your skills through coding challenges.
 - [freeCodeCamp](https://www.freecodecamp.org) – Free, hands-on coding curriculum.
+- [Lighthouse Labs](https://www.lighthouselabs.ca) – Canadian coding bootcamp offering web development and data science programs.
 - [DJ Codes It Simple](https://github.com/djleamen/codes-it-simple) – Practical coding examples and exercises.
 
 ## Online Courses & Certifications
@@ -48,11 +49,10 @@ A curated list of resources and websites to help developers expand their brand, 
 
 ## Professional Networking & Job Boards
 - [LinkedIn](https://www.linkedin.com) – Professional networking and career growth.
-- [Glassdoor](https://www.glassdoor.com) – Company reviews and job listings.
-- [Indeed](https://www.indeed.com) – Comprehensive job search engine.
-- [ZipRecruiter](https://www.ziprecruiter.com) – Curated job listings.
-- [Monster](https://www.monster.com) – Career opportunities across industries.
-- [LiveHire](https://www.livehire.com) – Talent recruitment platform.
+- [Glassdoor](https://www.glassdoor.ca) – Company reviews and job listings.
+- [Indeed Canada](https://ca.indeed.com) – Comprehensive job search engine.
+- [ZipRecruiter](https://www.ziprecruiter.ca) – Curated job listings.
+- [Monster Canada](https://www.monster.ca) – Career opportunities across industries.
 - [AngelList](https://angel.co) – Startup jobs and networking.
 - [We Work Remotely](https://weworkremotely.com) – Remote job board.
 - [Remote OK](https://remoteok.io) – Remote work listings.
@@ -61,8 +61,14 @@ A curated list of resources and websites to help developers expand their brand, 
 - [Stack Overflow](https://stackoverflow.com) – Q&A for developers.
 - [Piazza](https://piazza.com) – Community Q&A for academic and tech discussions.
 - [Reddit – r/programming](https://www.reddit.com/r/programming/) – Discussion and news on programming.
+- [HackerNest](https://hackernest.com) – Canadian non-profit organization hosting tech events and hackathons. 
 
 ## Conferences, Meetups & Events
 - [Microsoft Reactor](https://developer.microsoft.com/en-us/reactor/) - Community engagement hub by Microsoft.
 - [Meetup](https://www.meetup.com) – Find local tech meetups and networking events.
-- [Eventbrite](https://www.eventbrite.com) – Discover tech conferences and workshops.
+- [Eventbrite Canada – Tech Conferences](https://www.eventbrite.ca/d/canada/tech-conferences/) – Discover tech conferences and workshops across Canada. 
+- [Web Summit Vancouver](https://vancouver.websummit.com/) – Major tech conference in Vancouver, attracting global entrepreneurs and investors. 
+- [Startupfest](https://www.startupfestival.com/) – Montreal-based festival focusing on startups and innovation.
+- [TOJam](http://www.tojam.ca/) – Annual Toronto Game Jam event for game developers. 
+- [Full Indie Summit](https://www.fullindie.com/about-the-summit) – Vancouver conference for independent game developers. 
+- [VRTO](https://conference.virtualreality.to/) – Toronto's virtual reality and augmented reality conference. 
