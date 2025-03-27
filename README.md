@@ -67,7 +67,7 @@ A curated list of resources and websites to help Canadian developers expand thei
 - [Microsoft Reactor](https://developer.microsoft.com/en-us/reactor/) - Community engagement hub by Microsoft.
 - [Meetup](https://www.meetup.com) – Find local tech meetups and networking events.
 - [Eventbrite Canada – Tech Conferences](https://www.eventbrite.ca/d/canada/tech-conferences/) – Discover tech conferences and workshops across Canada. 
-- [Web Summit Vancouver](https://vancouver.websummit.com/) – Major tech conference in Vancouver, attracting global entrepreneurs and investors. 
+- [Web Summit Vancouver](https://vancouver.websummit.com/) – Vancouver tech conference, attracting global entrepreneurs and investors. 
 - [Startupfest](https://www.startupfestival.com/) – Montreal-based festival focusing on startups and innovation.
 - [TOJam](http://www.tojam.ca/) – Annual Toronto Game Jam event for game developers. 
 - [Full Indie Summit](https://www.fullindie.com/about-the-summit) – Vancouver conference for independent game developers. 
