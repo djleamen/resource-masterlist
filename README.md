@@ -1,7 +1,6 @@
 # Developer Brand & Skill Expansion Resource Masterlist
 
 ![Stars](https://img.shields.io/github/stars/djleamen/resource-masterlist?style=social)
-![Views](https://komarev.com/ghpvc/?username=djleamen&label=Views&color=blue)
 
 A curated list of resources and websites to help Canadian developers expand their brand, enhance their skills, and connect with the tech community.
 
